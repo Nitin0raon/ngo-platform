@@ -1,0 +1,14 @@
+# 1. Go to your project folder
+cd C:\Users\NITIN\Desktop\ngo_platform
+
+# 2. Check what you changed
+git status
+
+# 3. Stage all changes
+git add .
+
+# 4. Commit with a message describing what you did
+git commit -m "your message here"
+
+# 5. Push to GitHub
+git push
