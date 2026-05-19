@@ -1,0 +1,27 @@
+# ── Python / Django ──────────────────────
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.dbdir
+*.sqlite3
+.env
+*.log
+media/
+staticfiles/
+
+# ── Node / React ─────────────────────────
+ngo-frontend/node_modules/
+ngo-frontend/dist/
+ngo-frontend/.env
+ngo-frontend/.env.local
+
+# ── VS Code ───────────────────────────────
+.vscode/
+
+# ── OS files ──────────────────────────────
+.DS_Store
+Thumbs.db
